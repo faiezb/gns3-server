@@ -9,3 +9,4 @@ async-timeout==3.0.1
 distro==1.6.0
 py-cpuinfo==8.0.0
 setuptools
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
